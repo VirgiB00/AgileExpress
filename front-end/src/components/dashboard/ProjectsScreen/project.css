@@ -1,0 +1,7 @@
+.content {
+    max-height: calc(100vh - 61px);
+    overflow-y: auto;
+    flex: 1 1 auto;
+    padding: 2rem;
+    margin: 0;
+}

@@ -1,0 +1,24 @@
+.drawer {
+    height: calc(100vh - 61px);
+    z-index: 1030;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    transition: all .4s ease-in-out;
+    background-color: #F7F7F7;
+    overflow: hidden;
+}
+
+.icon-container {
+    width: 50px;
+}
+
+.menu-button {
+    width: 50px;
+    height: 40px;
+}
+
+.menu-item {
+    height: 50px;
+    cursor: pointer;
+}

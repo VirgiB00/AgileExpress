@@ -1,0 +1,16 @@
+.dot {
+    height: 35px;
+    width: 35px;
+    background-color: black;
+    border-radius: 50%;
+    display: inline-block;
+    color: white;
+}
+
+.form-container {
+    margin: 15px 20px;
+    border: dashed red;
+    display: flex;
+    flex: 1 1;
+    border-radius: 5px;
+}

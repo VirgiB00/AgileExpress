@@ -1,0 +1,118 @@
+.heading {
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.container-custom {
+    height: calc(100% - 35px);
+    overflow-y: auto;
+}
+
+.icon {
+    font-size: 16px;
+}
+
+.list {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 15px;
+}
+
+.list-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 15px;
+}
+
+.list-head {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.list-head-item {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.member-info-container {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.avatar {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    width: 40px;
+    margin-right: 8px;
+    border-radius: 50%;
+    background-color: #222;
+    color: #fff;
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+
+.textual-info-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-weight: 500;
+}
+
+.full-name {
+    line-height: 1.2;
+}
+
+.email {
+    line-height: 1.1;
+}
+
+.role-container {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.role-style {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 130px;
+    font-size: 13px;
+    text-transform: uppercase;
+    padding: 3px 6px;
+    color: white;
+}
+
+.project-manager-bg {
+    background-color: rgba(180, 12, 12, .8);
+}
+
+.team-lead-bg {
+    background-color: rgba(12, 180, 12, .8);
+}
+
+.member-bg {
+    background-color: rgba(65, 65, 65, .8);
+}
+
+.actions {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.action-container {
+    flex: 1 1;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}

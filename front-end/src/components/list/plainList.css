@@ -1,0 +1,17 @@
+.main {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.container {
+    margin-top: 10px;
+    background-color: #E7E7E7;
+    height: 500px;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+.head {
+    color: #343434;
+    font-weight: bolder;
+    margin-left: 10px;
+}
